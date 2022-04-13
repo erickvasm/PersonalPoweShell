@@ -23,11 +23,16 @@
  
 # Directorios
 
-#1
+# 1
+
 Users >  NameUser >  .config >  powershell > tacuya.omp, tacuya.omp.json.bak & user_profile.ps1
-#2
+
+# 2
+
 Users >  NameUser > Documents >  PowerShell > Microsoft.PowerShell_profile.ps1
-#3
+
+# 3
+
 User > NameUser > AppData > Local > nvim > init.vim      
 
  
