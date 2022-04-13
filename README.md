@@ -4,7 +4,7 @@
 **Índice**  
 - [Imagenes](#imagenes)
 - [Directorios](#directorios)
-- [Pasos PowerShell](#Pasos PowerShell)
+- [Pasos PowerShell](#PasosPowerShell)
 - [Pasos Nvim](#Nvim)
 - [Referencias](#referencias)
 - [Licencia](#licencia)
@@ -82,7 +82,7 @@ User > NameUser > AppData > Local > nvim > init.vim
     scoop install nvm
     nvm install [version]
     nvm use [version]
-```sh
+```
 
 10. Intalar terminal de icons
 
@@ -98,7 +98,7 @@ User > NameUser > AppData > Local > nvim > init.vim
     Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
     Set-PSReadLineOption -PredictionSource History
     Set-PSReadLineOption -PredictionViewStyle ListView
-``
+``` 
 
 13. Instalar FZf
 
